@@ -933,6 +933,11 @@ footer {
     gap: 0;
   }
   .brand-img {width: 18%;}
+  /* Review */
+  .review-img {
+    width: 15rem;
+    height: 15rem;
+   }
   /* Footer */
   .footer {
     flex-direction: row;
@@ -965,6 +970,11 @@ footer {
   .about-summary {max-width: 70%;}
   /* Menu */
   .detail-2 {width: 40%;}
+  /* Review */
+  .review-img {
+    width: 20rem;
+    height: 20rem;
+  }
   /* Footer */
   .footer {
     gap: 8rem;
