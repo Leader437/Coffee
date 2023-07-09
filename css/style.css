@@ -240,8 +240,7 @@ nav {
 /* Home */
 .home-items {
   position: relative;
-  min-height: 100vh;
-  min-height: 700px;
+  min-height: 70rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
